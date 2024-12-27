@@ -1,0 +1,116 @@
+,word1,word2,POS,SimLex999,conc(w1),conc(w2),concQ,Assoc(USF),SimAssoc333,SD(SimLex),context1,context2
+0,old,new,A,1.58,2.72,2.81,2,7.25,1,0.41,This house has an old design,This house has a new design
+1,smart,intelligent,A,9.2,1.75,2.46,1,7.11,1,0.67,She is a smart student.,She is an intelligent student.
+2,hard,difficult,A,8.77,3.76,2.21,2,5.94,1,1.19,The exam was hard,The exam was difficult
+3,happy,cheerful,A,9.55,2.56,2.34,1,5.85,1,2.18,She felt happy walking through the garden.,She felt cheerful walking through the garden.
+4,hard,easy,A,0.95,3.76,2.07,2,5.82,1,0.93,This puzzle is hard,This puzzle is easy
+5,fast,rapid,A,8.75,3.32,3.07,2,5.66,1,1.68,the car is moving fast,the car is moving rapid
+6,happy,glad,A,9.17,2.56,2.36,1,5.49,1,1.59,She felt happy to see her friend after so long.,She felt glad to see her friend after so long.
+7,short,long,A,1.23,3.61,3.18,2,5.36,1,1.58,The meeting was short,The meeting was long
+8,stupid,dumb,A,9.58,1.75,2.36,1,5.26,1,1.48,That was a stupid decision.,That was a dumb decision.
+9,weird,strange,A,8.93,1.59,1.86,1,4.26,1,1.3,Her behavior at the party was weird,Her behavior at the party was strange
+10,wide,narrow,A,1.03,3.06,3.04,2,4.06,1,0.58,the road is wide,the road is narrow
+11,bad,awful,A,8.42,1.68,1.92,1,3.41,1,1.74,The weather is bad today,The weather is awful today
+12,easy,difficult,A,0.58,2.07,2.21,1,2.83,1,0.36,solving that puzzle was easy,solving that puzzle was difficult
+13,bad,terrible,A,7.78,1.68,2.04,1,2.31,1,1.43,The weather today is bad,The weather today is terrible
+14,hard,simple,A,1.38,3.76,1.62,2,2.16,1,1.03,This problem is hard to solve,This problem is simple to solve
+15,smart,dumb,A,0.55,1.75,2.36,1,2.1,1,0.47,She made a smart decision in choosing the right path.,She made a dumb decision in choosing the right path.
+16,insane,crazy,A,9.57,1.77,2.37,1,2.09,1,0.92,That roller coaster ride was insane!,That roller coaster ride was crazy!
+17,happy,mad,A,0.95,2.56,2.76,2,2.07,1,1.4,She seemed happy after hearing the news,She seemed mad after hearing the news
+18,large,huge,A,9.47,3.37,3.54,2,2.0,1,1.27,that building is large,that building is huge
+19,hard,tough,A,8.05,3.76,2.5,2,1.99,1,1.18,This exam is hard,This exam is tough
+20,new,fresh,A,6.83,2.81,1.97,1,1.98,1,1.2,She bought a new dress for the occasion.,She bought a fresh dress for the occasion.
+21,sharp,dull,A,0.6,3.86,2.37,2,1.48,1,1.39,this knife is sharp,this knife is dull
+22,quick,rapid,A,9.7,2.89,3.07,2,1.38,1,1.14,She made a quick decision to leave.,She made a rapid decision to leave.
+23,dumb,foolish,A,6.67,2.36,1.84,1,1.34,1,1.36,He made a dumb mistake during the presentation.,He made a foolish mistake during the presentation.
+24,wonderful,terrific,A,8.63,1.82,2.07,1,1.17,1,1.63,The view from the top of the mountain is wonderful,The view from the top of the mountain is terrific
+25,strange,odd,A,9.02,1.86,1.7,1,1.16,1,1.04,The painting in the gallery looks strange.,The painting in the gallery looks odd.
+26,happy,angry,A,1.28,2.56,2.53,1,1.15,1,1.41,She felt happy after hearing the good news,She felt angry after hearing the good news
+27,narrow,broad,A,1.18,3.04,2.45,2,1.0,1,1.18,The path through the forest is narrow.,The path through the forest is broad.
+28,simple,easy,A,9.4,1.62,2.07,1,0.96,1,1.51,This problem is simple.,This problem is easy.
+29,old,fresh,A,0.87,2.72,1.97,1,0.91,1,1.64,this bread is old,this bread is fresh
+30,apparent,obvious,A,8.47,1.73,2.07,1,0.89,1,1.52,It was apparent that she was upset.,It was obvious that she was upset.
+31,inexpensive,cheap,A,8.72,2.22,2.11,1,0.79,1,0.81,this store offers inexpensive furniture,this store offers cheap furniture
+32,nice,generous,A,5.0,2.18,2.25,1,0.77,1,1.14,She is always so nice to her colleagues.,She is always so generous to her colleagues.
+33,weird,normal,A,0.72,1.59,1.4,1,0.76,1,1.15,The movie had such a weird ending,The movie had such a normal ending
+34,weird,odd,A,9.2,1.59,1.7,1,0.75,1,1.27,The painting on the wall is weird,The painting on the wall is odd
+35,bad,immoral,A,7.62,1.68,1.59,1,0.74,1,0.98,Stealing from the shop is a bad thing to do.,Stealing from the shop is an immoral thing to do.
+36,sad,funny,A,0.95,3.07,2.5,2,0.74,1,1.28,Her expression after hearing the news was sad,Her expression after hearing the news was funny
+37,wonderful,great,A,8.05,1.82,1.81,1,0.7,1,1.05,The view from the hill is wonderful,The view from the hill is great
+38,guilty,ashamed,A,6.38,2.36,1.74,1,0.69,1,0.47,She felt guilty about missing her friend's wedding.,She felt ashamed about missing her friend's wedding.
+39,beautiful,wonderful,A,6.5,2.16,1.82,1,0.68,1,0.85,The sunset over the ocean is beautiful,The sunset over the ocean is wonderful
+40,confident,sure,A,8.27,2.62,1.73,1,0.68,1,1.21,She felt confident about her decision.,She felt sure about her decision.
+41,dumb,dense,A,7.27,2.36,3.14,2,0.68,1,0.43,He acted so dumb during the meeting.,He acted so dense during the meeting.
+42,large,big,A,9.55,3.37,3.66,2,0.68,1,0.44,the house has a large garden,the house has a big garden
+43,nice,cruel,A,0.67,2.18,2.11,1,0.49,1,1.53,She always says such nice things to everyone.,She always says such cruel things to everyone.
+44,impatient,anxious,A,6.03,2.38,1.68,1,0.47,1,1.22,She was impatient as she waited for the test results.,She was anxious as she waited for the test results.
+45,big,broad,A,6.73,3.66,2.45,2,0.47,1,1.68,The field behind the house is big,The field behind the house is broad
+46,strong,proud,A,3.17,3.14,2.07,2,0.42,0,1.46,She felt strong after completing the marathon,She felt proud after completing the marathon
+47,unnecessary,necessary,A,0.63,1.56,1.8,1,0.41,0,0.61,This step is unnecessary for completing the project.,This step is necessary for completing the project.
+48,restless,young,A,1.6,2.46,3.16,2,0.41,0,0.85,the crowd was filled with restless energy,the crowd was filled with young energy
+49,dumb,intelligent,A,0.75,2.36,2.46,1,0.37,0,1.5,He thought the plan was dumb.,He thought the plan was intelligent.
+50,bad,great,A,0.35,1.68,1.81,1,0.35,0,1.49,The movie was bad,The movie was great
+51,difficult,simple,A,0.87,2.21,1.62,1,0.34,0,0.44,The test was difficult to solve.,The test was simple to solve.
+52,necessary,important,A,7.37,1.8,2.14,1,0.34,0,1.36,Proper hydration is necessary for good health.,Proper hydration is important for good health.
+53,bad,terrific,A,0.65,1.68,2.07,1,0.28,0,1.43,the movie was bad,the movie was terrific
+54,mad,glad,A,1.45,2.76,2.36,1,0.28,0,1.17,She felt mad when she missed the train.,She felt glad when she caught the train.
+55,honest,guilty,A,1.18,1.66,2.36,1,0.27,0,1.68,She was honest about her mistake,She was guilty about her mistake
+56,easy,tough,A,0.52,2.07,2.5,1,0.27,0,1.87,This problem is easy to solve.,This problem is tough to solve.
+57,easy,flexible,A,4.1,2.07,2.64,1,0.27,0,1.08,this project is easy to manage,this project is flexible to manage
+58,certain,sure,A,8.42,1.68,1.73,1,0.23,0,1.29,I am certain he will arrive on time.,I am sure he will arrive on time.
+59,essential,necessary,A,8.97,1.52,1.8,1,0.21,0,1.11,A good night's sleep is essential for your health.,A good night's sleep is necessary for your health.
+60,different,normal,A,1.08,1.97,1.4,1,0.21,0,1.75,Her approach to solving the problem was different.,Her approach to solving the problem was normal.
+61,sly,clever,A,7.25,2.03,1.79,1,0.21,0,1.41,She gave a sly smile after solving the riddle.,She gave a clever smile after solving the riddle.
+62,crucial,important,A,8.82,2.08,2.14,1,0.21,0,1.25,It is crucial to submit the report by noon.,It is important to submit the report by noon.
+63,harsh,cruel,A,8.18,2.23,2.11,1,0.21,0,1.66,The teacher's feedback was harsh.,The teacher's feedback was cruel.
+64,childish,foolish,A,5.5,2.52,1.84,1,0.21,0,1.45,Her behavior at the meeting was childish,Her behavior at the meeting was foolish
+65,scarce,rare,A,9.17,2.57,1.96,1,0.21,0,1.21,Fresh water is becoming scarce in the region.,Fresh water is becoming rare in the region.
+66,friendly,generous,A,5.9,2.32,2.25,1,0.21,0,0.6,She has a friendly attitude towards everyone she meets.,She has a generous attitude towards everyone she meets.
+67,fragile,frigid,A,2.38,2.86,3.28,2,0.21,0,0.84,Her voice sounded fragile in the quiet room.,Her voice sounded frigid in the quiet room.
+68,long,narrow,A,3.57,3.18,3.04,2,0.21,0,1.62,the hallway is long,the hallway is narrow
+69,big,heavy,A,6.18,3.66,3.37,2,0.21,0,1.54,that suitcase is big,that suitcase is heavy
+70,rough,frigid,A,2.47,3.83,3.28,2,0.21,0,1.37,the path felt rough under my feet,the path felt frigid under my feet
+71,bizarre,strange,A,9.37,1.79,1.86,1,0.2,0,1.54,Her behavior at the party was bizarre,Her behavior at the party was strange
+72,illegal,immoral,A,4.28,2.37,1.59,1,0.2,0,1.57,Selling counterfeit medicines is illegal.,Selling counterfeit medicines is immoral.
+73,bad,guilty,A,4.2,1.68,2.36,1,0.2,0,1.47,He felt bad for missing the meeting.,He felt guilty for missing the meeting.
+74,modern,ancient,A,0.73,2.31,2.04,1,0.2,0,0.71,The building has a modern design,The building has an ancient design
+75,new,ancient,A,0.23,2.81,2.04,1,0.2,0,0.46,The museum has a new artifact on display.,The museum has an ancient artifact on display.
+76,dull,funny,A,0.55,2.37,2.5,1,0.2,0,1.76,that movie was dull,that movie was funny
+77,happy,young,A,2.0,2.56,3.16,2,0.2,0,0.47,She looked so happy at the party,She looked so young at the party
+78,easy,big,A,1.12,2.07,3.66,2,0.2,0,1.22,that problem is easy,that problem is big
+79,great,awful,A,1.17,1.81,1.92,1,0.15,0,1.53,The movie was great,The movie was awful
+80,tiny,huge,A,0.6,3.11,3.54,2,0.15,0,0.59,the house had a tiny window,the house had a huge window
+81,polite,proper,A,7.63,1.85,1.78,1,0.14,0,1.42,She always addresses her elders in a polite manner,She always addresses her elders in a proper manner
+82,modest,ashamed,A,2.65,2.21,1.74,1,0.14,0,1.0,She felt modest about her accomplishments.,She felt ashamed about her accomplishments.
+83,exotic,rare,A,8.05,2.11,1.96,1,0.14,0,0.93,she owns an exotic flower species,she owns a rare flower species
+84,dumb,clever,A,1.17,2.36,1.79,1,0.14,0,1.3,He made a dumb decision during the meeting.,He made a clever decision during the meeting.
+85,delightful,wonderful,A,8.65,2.38,1.82,1,0.14,0,1.29,The cake she baked was delightful.,The cake she baked was wonderful.
+86,noticeable,obvious,A,8.48,2.29,2.07,1,0.14,0,1.69,The improvement in her performance was noticeable.,The improvement in her performance was obvious.
+87,afraid,anxious,A,5.07,2.7,1.68,1,0.14,0,1.28,She was afraid of forgetting her lines during the performance.,She was anxious about forgetting her lines during the performance.
+88,formal,proper,A,8.02,2.7,1.78,1,0.14,0,1.31,She wore a formal dress to the event.,She wore a proper dress to the event.
+89,dreary,dull,A,8.25,2.33,2.37,1,0.14,0,1.85,The weather today feels so dreary.,The weather today feels so dull.
+90,delightful,cheerful,A,6.58,2.38,2.34,1,0.14,0,1.56,The garden is truly delightful this morning.,The garden is truly cheerful this morning.
+91,unhappy,mad,A,5.95,2.04,2.76,1,0.14,0,1.36,She felt unhappy after the argument.,She felt mad after the argument.
+92,sad,terrible,A,5.4,3.07,2.04,1,0.14,0,0.44,The story made her feel sad,The story made her feel terrible
+93,sick,crazy,A,3.57,2.97,2.37,2,0.14,0,0.95,That skateboard trick was sick.,That skateboard trick was crazy.
+94,violent,angry,A,6.98,3.1,2.53,2,0.14,0,1.55,The protest turned violent when the crowd refused to disperse.,The protest turned angry when the crowd refused to disperse.
+95,laden,heavy,A,5.9,2.96,3.37,2,0.14,0,1.28,the table was laden with food,the table was heavy with food
+96,dirty,cheap,A,1.6,4.23,2.11,2,0.14,0,1.1,that hotel room is dirty,that hotel room is cheap
+97,elastic,flexible,A,7.78,3.73,2.64,2,0.14,0,1.09,This material is elastic enough to stretch easily.,This material is flexible enough to stretch easily.
+98,hard,dense,A,5.9,3.76,3.14,2,0.14,0,1.0,This material feels hard,This material feels dense
+99,recent,new,A,7.05,2.5,2.81,2,0.13,0,1.05,I read a recent article about climate change.,I read a new article about climate change.
+100,bold,proud,A,3.97,2.43,2.07,1,0.12,0,1.36,She made a bold decision to speak up during the meeting,She made a proud decision to speak up during the meeting
+101,sly,strange,A,1.97,2.03,1.86,1,0.0,0,1.07,he gave her a sly smile,he gave her a strange smile
+102,strange,sly,A,2.07,1.86,2.03,1,0.0,0,0.51,His behavior at the party was strange.,His behavior at the party was sly.
+103,dumb,rare,A,0.48,2.36,1.96,1,0.0,0,1.55,His comments during the meeting were dumb.,His comments during the meeting were rare.
+104,sly,tough,A,0.58,2.03,2.5,1,0.0,0,1.01,The detective gave a sly smile while revealing the clue.,The detective gave a tough smile while revealing the clue.
+105,terrific,mad,A,0.4,2.07,2.76,1,0.0,0,0.86,The performance last night was terrific,The performance last night was mad
+106,modest,flexible,A,0.98,2.21,2.64,1,0.0,0,1.89,She has a modest approach towards her accomplishments,She has a flexible approach towards her accomplishments
+107,fresh,wide,A,0.4,1.97,3.06,1,0.0,0,1.41,the air in the room feels fresh,the air in the room feels wide
+108,huge,dumb,A,0.48,3.54,2.36,2,0.0,0,0.91,that mistake was huge,that mistake was dumb
+109,large,flexible,A,0.48,3.37,2.64,2,0.0,0,1.59,that bag is large,that bag is flexible
+110,dirty,narrow,A,0.3,4.23,3.04,2,0.0,0,0.89,the alley was dirty,the alley was narrow
+111,wife,husband,N,2.3,4.13,4.11,3,8.85,1,0.84,The wife is baking a cake in the kitchen.,The husband is baking a cake in the kitchen.
+112,book,text,N,6.35,4.9,4.93,4,8.81,1,1.43,She picked up a book to read before bed.,She picked up a text to read before bed.
+113,groom,bride,N,3.17,4.54,4.63,3,8.65,1,0.68,the groom was waiting at the altar,the bride was waiting at the altar
+114,night,day,N,1.88,4.52,3.92,3,8.19,1,1.17,The sky looks calm at night,The sky looks calm during the day
